@@ -9,7 +9,7 @@ using namespace std;
 class Computer{
 
 private:
-	char compMove
+	char compMove;
 protected:
 
 public:
@@ -17,6 +17,6 @@ public:
 	char makeMove();
 
 
-}
+};
 
 #endif

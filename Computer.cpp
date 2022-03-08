@@ -9,6 +9,6 @@ Computer::Computer(){
 }
 
 char Computer::makeMove(){
-	compMove='R'
+	compMove='R';
 	return compMove;
 }
